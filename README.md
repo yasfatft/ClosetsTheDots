@@ -1,5 +1,5 @@
 # ClosetsTheDots
-this is a solution for the project of founding the closets pair of dots in a 2D page in nlogn (the common solution run in nlogn^2 ). 
+this is a solution for the project of founding the closets pair of dots in a 2D page in nlogn(the common solution run in nlogn^2 ). 
 ## programming language
 python 3
 #### main trick 
